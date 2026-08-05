@@ -1,0 +1,81 @@
+index.html (section project)
+
+  <section class="projects">
+
+        <div class="grid-bg"></div>
+
+        <div class="projects-content">
+
+            <span class="section-tag">• FEATURED PROJECTS</span>
+
+            <h2>My <span>Projects</span></h2>
+
+            <p>
+                Combining governance, business strategy,
+                and modern technology into impactful digital products.
+            </p>
+
+            <!-- Container Slider Horizontal -->
+            <div class="projects-grid">
+
+                <!-- Card 1: SmartMuseum+ -->
+                <a href="https://github.com/USERNAME/SmartMuseumPlus" target="_blank" class="project-card">
+                    <img src="images/smart01.jpeg" alt="SmartMuseum+">
+                    <div class="project-overlay">
+                        <span>Java • JSP & Servlet • MySQL</span>
+                        <h3>SmartMuseum+</h3>
+                        <p>Integrated Digital Museum Platform</p>
+                        <div class="view-btn">View Project →</div>
+                    </div>
+                </a>
+
+                <!-- Card 2: HUNICARE -->
+                <a href="https://github.com/USERNAME/HUNICARE" target="_blank" class="project-card">
+                    <img src="images/hunicare.jpg" alt="HUNICARE">
+                    <div class="project-overlay">
+                        <span>Next.js • Supabase</span>
+                        <h3>HUNICARE</h3>
+                        <p>Cleaning Service Platform</p>
+                        <div class="view-btn">View Project →</div>
+                    </div>
+                </a>
+
+                <!-- Card 3: GIAT CORE -->
+                <a href="https://github.com/USERNAME/GIATCORE" target="_blank" class="project-card">
+                    <img src="images/smart01.jpeg" alt="GIAT CORE">
+                    <div class="project-overlay">
+                        <span>Laravel • API • MySQL</span>
+                        <h3>GIAT CORE</h3>
+                        <p>Procurement Monitoring System</p>
+                        <div class="view-btn">View Project →</div>
+                    </div>
+                </a>
+
+                <!-- Card 4: AURA Analytics -->
+                <a href="https://github.com/USERNAME/AURA" target="_blank" class="project-card">
+                    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800&auto=format&fit=crop"
+                        alt="AURA Analytics">
+                    <div class="project-overlay">
+                        <span>React • Node.js • Express</span>
+                        <h3>AURA Analytics</h3>
+                        <p>Real-time Business Dashboard</p>
+                        <div class="view-btn">View Project →</div>
+                    </div>
+                </a>
+
+                <!-- Card 5: EduLearn App -->
+                <a href="https://github.com/USERNAME/EduLearn" target="_blank" class="project-card">
+                    <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop"
+                        alt="EduLearn">
+                    <div class="project-overlay">
+                        <span>Python • Django • PostgreSQL</span>
+                        <h3>EduLearn LMS</h3>
+                        <p>Interactive E-Learning System</p>
+                        <div class="view-btn">View Project →</div>
+                    </div>
+                </a>
+
+            </div>
+        </div>
+
+    </section>

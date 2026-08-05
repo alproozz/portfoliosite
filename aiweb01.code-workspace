@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Users/mauli/Downloads/ezgif-79f8d0d99443f733-jpg"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"configurations": [
+			{
+				"type": "msedge",
+				"name": "http://localhost:8081/",
+				"request": "launch",
+				"url": "http://localhost:8081/"
+			}
+		]
+	}
+}
